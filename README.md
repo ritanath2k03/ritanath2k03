@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Currently I'm working on Native Android Development along with DSA. <br>👯 Looking to collaborate on Android or Java based Projects.<br>🤝 I’m looking for help with DSA and AI tools.<br>🌱 I’m currently learning Spring.<br>💬 Ask me about Android things.<br>⚡ Fun fact nothing can reduce my depression without CP.<br>
-[!(Portfolio:)](https://ritanath2003.wixsite.com/ritanath)
+[Portfolio:](https://ritanath2003.wixsite.com/ritanath)
 
 
 ## 🌐 Socials:
